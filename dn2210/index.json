@@ -1,5 +1,6 @@
 {
   "reviewing": true,
   "bypass_login": true,
-  "social_login": false
+  "social_login": false,
+  "sip_domain": "delivery.voip.qup.vn"
 }
