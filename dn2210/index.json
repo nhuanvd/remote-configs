@@ -3,5 +3,6 @@
   "review_version": "1.2",
   "bypass_login": true,
   "social_login": false,
-  "sip_domain": "delivery.voip.qup.vn"
+  "sip_cc": "ducnhuanqx",
+  "sip_domain": "sip.linphone.org"
 }
