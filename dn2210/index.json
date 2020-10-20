@@ -4,5 +4,7 @@
   "review_version": "1.2",
   "bypass_login": true,
   "bypass_sip": true,
-  "sip_domain": "dvc.cloudzone.vn"
+  "sip_domain": "dvc.cloudzone.vn",
+  "log_server": "http://52.221.235.187:5000/log",
+  "log_debug": true
 }
