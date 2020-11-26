@@ -1,6 +1,6 @@
 {
   "social_login": true,
-  "reviewing": false,
+  "reviewing": true,
   "review_version": "1.2.4",
   "bypass_login": true,
   "bypass_sip": true,
