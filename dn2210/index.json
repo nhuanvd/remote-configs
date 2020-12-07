@@ -1,7 +1,7 @@
 {
   "social_login": true,
-  "reviewing": false,
-  "review_version": "1.2.4",
+  "reviewing": true,
+  "review_version": "1.2.7",
   "bypass_login": true,
   "bypass_sip": true,
   "sip_domain": "dvc.cloudzone.vn",
